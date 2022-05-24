@@ -6,7 +6,7 @@
   <link href="https://godweiyang.com/atom.xml" rel="self"/>
   
   <link href="https://godweiyang.com/"/>
-  <updated>2022-05-23T16:21:20.407Z</updated>
+  <updated>2022-05-24T06:39:22.397Z</updated>
   <id>https://godweiyang.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="https://godweiyang.com/2022/05/24/mian-shi-ti-zong-jie/"/>
     <id>https://godweiyang.com/2022/05/24/mian-shi-ti-zong-jie/</id>
     <published>2022-05-23T16:20:04.000Z</published>
-    <updated>2022-05-23T16:21:20.407Z</updated>
+    <updated>2022-05-24T06:39:22.397Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h3 id=&quot;1-解释IOC和DI&quot;&gt;1. 解释IOC和DI&lt;/h3&gt;
-&lt;ol&gt;
-&lt;li&gt;&lt;strong&gt;IOC&lt;/strong&gt;就是==控制反转==，指的是将创建对象的全力反转交给Spring，由Spring来为我们创建对象。而Spring底层采用的是==工厂+</summary>
+    <summary type="html">&lt;p&gt;​		哈哈哈哈哈哈&lt;/p&gt;
+&lt;h3 id=&quot;1-解释IOC和DI&quot;&gt;1.</summary>
         
       
     

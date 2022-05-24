@@ -1,4 +1,8 @@
 /* Here is your custom css styles. */
+
+/**
+*markdown css风格====================================================
+*/
 @import url(./source/dyzj.css);
 
 :root {
@@ -56,4 +60,23 @@
     --code-font: 'JetBrains Mono'; /* 代码块以及行内代码字体 */
     /* bg image */
     --bgimg-url: url(./bg-light.gif);
+}
+
+
+/*
+*手机端header==========================================================
+*/
+
+/* 修改首页轮播的标题大小 */
+@media only screen and (max-width: 601px) {
+    .bg-cover .title {
+        font-size: 2.5rem;
+    }
+}
+
+/* 修改博客标题的字体大小 */
+@media only screen and (max-width: 601px) {
+    header .brand-logo .logo-span {
+        font-size: 1.5rem;
+    }
 }
